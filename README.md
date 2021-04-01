@@ -10,8 +10,8 @@ I'm Maxim, a Web Developer based in Russia, passionate about Frontend and Backen
 - 💚 Vue 
 - 🌱 I’m currently improving my knowledge and understanding of my current stack I use everyday 😀
 - 💬 Ask me about anything related to **MERN** or **MEVN** stack
-- 🈴 Learning Japanese as my hobby
 - 👉 **"Work Smarter, Not Harder"** 
+- 🤤 Other than programming, as my hobby I learn Japanese and do 3D modeling (3ds Max)
 - 😄 Pronouns: he/him
 - What I cherish ❤️ and use the most for my workflow 😌: 
 
