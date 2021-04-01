@@ -11,6 +11,7 @@
   - **Skype** - live:darkzarichv2
 - 👉 **"Work Smarter, Not Harder"** 
 - 💬 Ask me about anything related to **MERN** or **MEVN** stack
+- 🈴 Learning Japanese as my hobby
 - 😄 Pronouns: he/him
 - What I cherish ❤️ and use the most for my workflow 😌: 
 
