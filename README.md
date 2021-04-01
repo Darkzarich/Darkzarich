@@ -5,8 +5,9 @@
 - 💚 Vue 
 - 🌱 I’m currently improving my knowledge and understanding of my current stack I use everyday 😀
 - 📫 You can reach me via: 
+  - 🤵 [linkedin](https://www.linkedin.cn/in/darkzarich/)
   - ✉️ email - darkzarichv2@gmail.com 
-  - **TG** - @darkzarich
+  - **Telegram** - [@darkzarich](https://t.me/Darkzarich)
   - **Skype** - live:darkzarichv2
 - 👉 **"Work Smarter, Not Harder"** 
 - 💬 Ask me about anything related to **MERN** or **MEVN** stack
