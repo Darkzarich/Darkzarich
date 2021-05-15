@@ -7,7 +7,7 @@
 
 I'm Maxim, a tech enthusiast and a Web Developer based in Russia, passionate about Frontend and Backend, Web Development in general. Along with writing code, I'm also passionate about DevOps stuff and build automation.
 
-- 🔭 I’m currently working for TurboRender as a Frontend Developer
+- 🔭 I’m currently working for X5FoodTech as a Frontend Developer
 - 💚 Vue 
 - 🌱 I’m currently improving my knowledge and understanding of my current stack I use everyday 😀
 - 💬 Ask me about anything related to **MERN** or **MEVN** stack
