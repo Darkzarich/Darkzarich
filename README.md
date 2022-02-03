@@ -9,7 +9,7 @@ I'm Maxim, a tech enthusiast and a Web Developer based in Russia, passionate abo
 
 - 🔭 I’m currently working for X5FoodTech as a Frontend Developer
 - 💚 Vue 
-- 🌱 I’m currently improving my knowledge and understanding of my current stack I use everyday 😀
+- 🌱 I’m currently learning and trying to work with [Feature-Sliced Design](https://feature-sliced.design) in my projects 😀
 - 💬 Ask me about anything related to **MERN** or **MEVN** stack
 - 👉 **"Work Smarter, Not Harder"** 
 - 🤤 Other than programming, as my hobby I learn Japanese and do 3D modeling (3ds Max)
