@@ -5,7 +5,7 @@
 [![Private Email](https://img.shields.io/badge/darkzarichv2@gmail.com-D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:darkzarichv2@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/254377035974049792)
 
-I'm Maksim, a tech enthusiast and a Web Developer, passionate about both Frontend and Backend, Web Development in general. Along with writting code, I'm also passionate about DevOps stuff and build automation. As one of my hobbies, along side web programming I work in Unity and Blender, making my ideas come to life!
+I'm Max, a tech enthusiast and a Web Developer, passionate about both Frontend and Backend, Web Development in general. Along with writting code, I'm also passionate about DevOps stuff and build automation. As one of my hobbies, along side web programming I work in Unity and Blender, making my ideas come to life!
 
 - 🔭 I’m currently working for X5 Digital as a Frontend Developer
 - 💚 Vue 
