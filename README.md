@@ -25,7 +25,6 @@ I'm Max, a tech enthusiast and a Web Developer, passionate about both Frontend a
 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[![Darkzarich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkzarich&&show_icons=true&title_color=42b883&icon_color=42b883&text_color=daf7dc&bg_color=0d1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=darkzarich.Darkzarich)
