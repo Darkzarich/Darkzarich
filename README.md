@@ -7,7 +7,7 @@
 
 I'm Max, a tech enthusiast and a Web Developer, passionate about both Frontend and Backend, Web Development in general. Along with writting code, I'm also passionate about DevOps stuff and build automation. As one of my hobbies, along side web programming I work in Unity and Blender, making my ideas come to life!
 
-- 🔭 I’m currently working for X5 Digital as a Frontend Developer
+- 🔭 I’m currently working for X5 Digital as a Senior Frontend Developer
 - 💚 Vue 
 - 🌱 I’m currently learning and trying to work with [Feature-Sliced Design](https://feature-sliced.design) in my projects 😀
 - 👉 **"Work Smarter, Not Harder"** 
